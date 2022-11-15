@@ -1,3 +1,14 @@
+import App from "../components/app";
+
+const Index = () => <App />
+
+export default Index;
+
+
+
+
+/*
+
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
@@ -69,3 +80,5 @@ export default function Home() {
     </div>
   )
 }
+
+*/
